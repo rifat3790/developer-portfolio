@@ -152,9 +152,9 @@ main section{
 }
 
 /* Resume section styles */
-.resume-column-title{
+.resumn-column-title{
     color:  #474747;
-    font-family: Open Sans;
     font-size: 30px;
     font-weight: 700;
 }
+
